@@ -1,0 +1,9 @@
+com\bootcampmck\model\Orders.class
+com\bootcampmck\model\Products.class
+com\bootcampmck\repository\ProductsRepository.class
+com\bootcampmck\repository\UsersRepository.class
+com\bootcampmck\controller\OrdersController.class
+com\bootcampmck\repository\OrdersRepository.class
+com\bootcampmck\controller\ProductsController.class
+com\bootcampmck\model\Users.class
+com\bootcampmck\controller\UsersController.class
